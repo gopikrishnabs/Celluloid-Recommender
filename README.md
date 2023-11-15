@@ -5,8 +5,9 @@ Below are the few screen shots of the project
 
 ![image](https://github.com/gopikrishnabs/Celluloid-Recommender/assets/53032421/7d688480-a30c-43be-8240-0107b1df6bf1)
 
-
 ![image](https://github.com/gopikrishnabs/Celluloid-Recommender/assets/53032421/bd6ebf66-894d-42fd-b0df-f89614731226)
+
+![image](https://github.com/gopikrishnabs/Celluloid-Recommender/assets/53032421/7d7f3fb4-a272-42a2-b2fa-f3c9374b435f)
 
 ![image](https://github.com/gopikrishnabs/Celluloid-Recommender/assets/53032421/d1d3193e-1525-4647-a034-7a3dc0743b9d)
 
